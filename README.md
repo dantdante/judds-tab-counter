@@ -22,7 +22,7 @@ A simple Python app to track who owes you money.
    cd Desktop/Tab Counter
 
 4. To Run:
-   python3 tabcounter.py
+   python3 app.py
 
 ## How It Works
 
